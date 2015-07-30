@@ -1,0 +1,15 @@
+{
+    "name": "unicode/string-length-lab",
+    "description": "A lab to get the length of a string or strings in an array",
+    "require": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "busayo",
+            "email": "prosperotemuyiwa@gmail.com"
+        }
+    ]
+}
