@@ -1,0 +1,15 @@
+{
+    "name": "unicode/arithmetic-progression-lab",
+    "description": "A lab for checking if an array is arithmetic or geometric",
+    "require": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "busayo",
+            "email": "prosperotemuyiwa@gmail.com"
+        }
+    ]
+}
