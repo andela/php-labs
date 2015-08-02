@@ -1,0 +1,15 @@
+{
+    "name": "unicode/datatypes-lab",
+    "description": "A lab to test for data types of values",
+    "require": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "busayo",
+            "email": "prosperotemuyiwa@gmail.com"
+        }
+    ]
+}
