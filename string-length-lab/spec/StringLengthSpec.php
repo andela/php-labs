@@ -17,7 +17,7 @@ class StringLengthSpec extends ObjectBehavior
     $this->getLength('Mia')->shouldBeEqualTo([3]);
   }
 
-  function it_should_return_4_and_7_for_Adam_and_Frankel()
+  function it_should_return_4_and_7_in_an_array_for_Adam_and_Frankel()
   {
     $this->getLength(['Adam','Frankel'])->shouldBeEqualTo([4,7]);
   }
