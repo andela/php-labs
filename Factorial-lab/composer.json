@@ -1,0 +1,15 @@
+{
+    "name": "unicode/factorial-lab",
+    "description": "A lab to test for factorials",
+    "require": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "busayo",
+            "email": "prosperotemuyiwa@gmail.com"
+        }
+    ]
+}
